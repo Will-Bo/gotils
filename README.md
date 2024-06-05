@@ -20,3 +20,11 @@ Complete:
 TODO:
 - Option flags
 - Colorized output
+
+## du
+Complete:
+- Basic file traversal
+
+TODO:
+- Data structure to track folders
+    - Perhaps a tree? Or a heap?
